@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <Header />
-      <h1>Ceci est un projet</h1>
+      <h1>Ceci est un projet yo</h1>
     </div>
   );
 }

@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer style={{ backgroundColor: "orange" }}>
+    <footer style={{ backgroundColor: "yellow" }}>
       Coucou, je suis de l'équipe unifiée
     </footer>
   );
